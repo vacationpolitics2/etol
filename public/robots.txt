@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lifewatchv.com/green-3fc_sitemap.xml
